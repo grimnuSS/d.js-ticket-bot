@@ -1,0 +1,18 @@
+{
+  "name": "ticket-bot",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grimDev",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.5.0",
+    "@discordjs/rest": "^1.6.0",
+    "discord.js": "^13.14.0",
+    "dotenv": "^16.0.3",
+    "lib": "^5.0.1"
+  },
+  "description": ""
+}
