@@ -1,6 +1,8 @@
-# d.js-ticket-bot
+# Discord Ticket Bot
 
-Discord.js İle Yazdığım Ticket Bot
+*Merhaba bu benim ilk node.js projem.*
+
+## Discord.js İle Yazdığım Ticket Bot'un Kullanımı;
 
 1 - Klasöre çıkartın.
 2 - Node.js kurun.
